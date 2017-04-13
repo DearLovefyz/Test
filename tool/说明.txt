@@ -1,5 +1,2 @@
-jsadvsbdvbs
-dadcn
-ooooooooooooooo
-iiiiiiiiiii
-mmmmmm
+这是一个事例工程，用于测试git命令是否正常。
+The boy is so smart!
